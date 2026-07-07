@@ -117,7 +117,7 @@ export const projects = [
 
   demo: '',
 
- image: "public/images/resellbazaar.png",
+ image: 'https://img.magnific.com/premium-photo/buy-sell-gold-stock-market-investment-business-money-finance-exchange-trade-graph-chart-3d-financial-forex-currency-growth-concept-background-profit-banking-strategy-price-crypto-rate-diagram_79161-2786.jpg?semt=ais_hybrid&w=740&q=80',
 },
   
   {
