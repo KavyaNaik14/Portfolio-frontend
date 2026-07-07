@@ -4,7 +4,7 @@ import { FiMail, FiPhone, FiMapPin, FiGithub, FiLinkedin, FiCheckCircle, FiSend 
 import { personal } from '../data/portfolioData';
 import Reveal from './Reveal';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_URL = 'https://portfolio-backend-pwcl.vercel.app';
 
 const initialForm = { name: '', email: '', subject: '', message: '' };
 
